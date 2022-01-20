@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-he website must consist of 7 pages total, including:
+The website must consist of 7 pages total, including:
 
 A landing page containing:
 
